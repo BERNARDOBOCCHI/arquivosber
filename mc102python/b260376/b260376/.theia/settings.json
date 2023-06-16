@@ -1,0 +1,6 @@
+{
+    "redhat.telemetry.enabled": false,
+    "csharp.suppressDotnetRestoreNotification": true,
+    "gettingstarted.showOnStartup": false,
+    "python.defaultInterpreterPath": "/bin/python"
+}
